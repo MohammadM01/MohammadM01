@@ -62,7 +62,7 @@
 <div align="center">
   
 ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?MohammadM01=ryo-ma&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true" />
   
 </div>
 
