@@ -79,3 +79,26 @@
 <img src="https://komarev.com/ghpvc/?username=MohammadM01&style=for-the-badge&color=00FF41" />
 
 </div>
+
+<br/>
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=MohammadM01&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MohammadM01&theme=dark&hide_border=true&layout=compact" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=MohammadM01&theme=dark&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=MohammadM01&style=for-the-badge&color=00FF41" />
+
+</div>
