@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=70&lines=Mohammad+Mulla;Software+Developer;Building+with+AI+%2B+Full-Stack" alt="Typing SVG" />
 
-<img src="./assets/pixel-desk.gif" width="550">
+<img src="./pixel-desk.gif" width="550">
 
 <br/>
 
