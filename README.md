@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=70&lines=Mohammad+Mulla;Software+Developer;Building+with+AI+%2B+Full-Stack" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="450">
+<img src="./assets/pixel-desk.gif" width="550">
 
 <br/>
 
@@ -25,27 +25,35 @@
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,html,css" />
 
 <br/><br/>
 
 **Frontend & Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind,bootstrap" />
 
 <br/><br/>
 
-**Cloud & Database**
+**Cloud, DevOps & Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,mongodb,postgres,git" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,firebase,mongodb,postgres,mysql,git,githubactions" />
 
 <br/><br/>
 
 **AI / ML**
 <br/>
-<img src="https://skillicons.dev/icons?i=pytorch,opencv" />
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,py" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge" />
+
+<br/><br/>
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=postman,vscode,figma,linux" />
 
 </div>
 
