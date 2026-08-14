@@ -60,8 +60,10 @@
 <br/>
 
 <div align="center">
+  
 ## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy-winning.vercel.app/?username=MohammadM01&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true" />
+  
 </div>
 
 <br/>
